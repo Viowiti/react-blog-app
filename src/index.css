@@ -57,3 +57,7 @@
   color: tomato;
   margin-bottom: 8px;
 }
+
+.blog_preview a {
+  text-decoration: none;
+}
