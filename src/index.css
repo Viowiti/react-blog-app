@@ -59,5 +59,26 @@
 }
 
 .blog_preview a {
-  text-decoration: none;
+  text-decoration: none ;
+}
+
+/* Blog details page */
+
+.blog-details h2 {
+  font-size: 20px;
+  color: tomato;
+  margin-bottom: 10px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+}
+
+.blog-details button {
+  background: tomato;
+  color:ghostwhite;
+  border:0;
+  padding:8px;
+  border-radius:8px;
+  cursor: pointer;
 }

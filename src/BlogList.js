@@ -12,7 +12,7 @@ const BlogList = ({blogs, title}) => {
                     </Link>
 
                 </div>
-            ))}
+            ))} 
         </div>
     );
 }
