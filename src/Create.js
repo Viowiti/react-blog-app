@@ -52,7 +52,7 @@ const Create = () => {
 
                 {!isPending && <button>Add Blog</button>}
                 {isPending && <button disabled>Add Blog</button>}
-                <p>{author}</p>
+                
                 
 
             </form>
